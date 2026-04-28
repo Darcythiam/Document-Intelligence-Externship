@@ -16,7 +16,7 @@ The goal of this repository is to provide a technical overview of the work compl
 ## Repository Structure
 
 ```text
-document-intelligence-externship/
+Document-Intelligence-Externship/
 ├── notebooks/
 │   ├── 01_ocr_engine_comparison_mortgage.ipynb
 │   ├── 02_pdf_text_bounding_boxes_json.ipynb
@@ -25,11 +25,18 @@ document-intelligence-externship/
 │   ├── 05_llm_comparison_mortgage_qa.ipynb
 │   └── 06_mortgage_rag_gradio_app.ipynb
 ├── data/
-│   └── README.md
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/COE-Sample.pdf
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/functionalsample.pdf
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/LenderFeesWorksheetNew.pdf
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/MTG_10009588.pdf
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/noisy_image_sample.jpg
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/payslip-1752803610.pdf
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/payslip-1752804713.pdf
+│   ├── /home/darcy/Downloads/document-intelligence-externship/data/PayStatement-Nov_1__2024.pdf
+│   ├── Test Blob File.pdf
 ├── outputs/
-│   └── README.md
 ├── certificates/
-│   └── README.md
+│   └── Externship_certificate(outamation project).pdf
 ├── requirements.txt
 ├── .gitignore
 └── README.md
