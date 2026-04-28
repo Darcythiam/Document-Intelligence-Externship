@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Secrets
+*.key
+secrets.json
+
+# Large/local data
+data/*.pdf
+data/*.png
+data/*.jpg
+data/*.jpeg
+data/*.csv
+outputs/*
+
+# Keep folder notes
+!data/README.md
+!outputs/README.md
+!certificates/README.md
+
+# OS
+.DS_Store
