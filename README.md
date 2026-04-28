@@ -78,7 +78,7 @@ No API keys are stored in this repository.
 
 ## Data Disclaimer
 
-The documents used in this project are for educational and demonstration purposes only and do not contain sensitive personal information. Large document files are not included by default.
+The documents used in this project are for educational and demonstration purposes only and do not contain sensitive personal information.
 
 ## Certificates
 
