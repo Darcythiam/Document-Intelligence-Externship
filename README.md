@@ -25,15 +25,15 @@ Document-Intelligence-Externship/
 │   ├── 05_llm_comparison_mortgage_qa.ipynb
 │   └── 06_mortgage_rag_gradio_app.ipynb
 ├── data/
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/COE-Sample.pdf
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/functionalsample.pdf
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/LenderFeesWorksheetNew.pdf
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/MTG_10009588.pdf
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/noisy_image_sample.jpg
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/payslip-1752803610.pdf
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/payslip-1752804713.pdf
-│   ├── /home/darcy/Downloads/document-intelligence-externship/data/PayStatement-Nov_1__2024.pdf
-│   ├── Test Blob File.pdf
+│   ├── COE-Sample.pdf
+│   ├── functionalsample.pdf
+│   ├── LenderFeesWorksheetNew.pdf
+│   ├── MTG_10009588.pdf
+│   ├── noisy_image_sample.jpg
+│   ├── payslip-1752803610.pdf
+│   ├── payslip-1752804713.pdf
+│   ├── PayStatement-Nov_1__2024.pdf
+│   └── Test Blob File.pdf
 ├── outputs/
 ├── certificates/
 │   └── Externship_certificate(outamation project).pdf
@@ -78,17 +78,11 @@ No API keys are stored in this repository.
 
 ## Data Disclaimer
 
-The documents used in this project are for educational and demonstration purposes only and do not contain sensitive personal information. Large document files are not included by default. Add your own test PDFs to the `data/` folder or upload them directly in Colab.
+The documents used in this project are for educational and demonstration purposes only and do not contain sensitive personal information. Large document files are not included by default.
 
-## Certificate
+## Certificates
 
-A certificate of completion can be added in the `certificates/` folder. This is optional, but it can help connect the technical work in this repository to the externship experience.
-
-Suggested filename:
-
-```text
-certificates/outamation_externship_certificate.pdf
-```
+A certificate of completion was added.
 
 ## Technical Stack
 
